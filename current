@@ -12,14 +12,14 @@
 
 
 <table class="svr2018">
-
+<caption>2018 Storm Prediction Center Severe Weather Outlooks for North Carolina</caption>
 <thead>
 <tr>
-    <th class="marginal">MARGINAL</th>
-    <th class="slight">SLIGHT</th>
-    <th class="enhanced">ENHANCED</th>
-    <th class="moderate">MODERATE</th>
-    <th class="high">HIGH</th>
+    <th style="background-color:#86C387; width:40%">MARGINAL</th>
+    <th style="background-color:#FBF387; width:30%">SLIGHT</th>
+    <th style="background-color:#E5C382; width:10%">ENHANCED</th>
+    <th style="background-color:#E2817D; width:10%">MODERATE</th>
+    <th style="background-color:#FF80FF; width:10%">HIGH</th>
   </tr>
 </thead>
 
@@ -80,14 +80,14 @@
 
 
 <table class="svr2017">
-
+<caption>2018 Storm Prediction Center Severe Weather Outlooks for North Carolina</caption>
 <thead>
 <tr>
-    <th class="marginal">MARGINAL</th>
-    <th class="slight">SLIGHT</th>
-    <th class="enhanced">ENHANCED</th>
-    <th class="moderate">MODERATE</th>
-    <th class="high">HIGH</th>
+    <th style="background-color:#86C387; width:40%">MARGINAL</th>
+    <th style="background-color:#FBF387; width:30%">SLIGHT</th>
+    <th style="background-color:#E5C382; width:10%">ENHANCED</th>
+    <th style="background-color:#E2817D; width:10%">MODERATE</th>
+    <th style="background-color:#FF80FF; width:10%">HIGH</th>
   </tr>
 </thead>
 
