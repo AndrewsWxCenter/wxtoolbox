@@ -9,7 +9,71 @@
 
 <body>
 
+<center>
 
+<img alt="currenthazards" width=100% height=auto src="http://maps8.pivotalweather.com/maps/warnings/nwshaz.conus.png"/>
+
+<br>
+<hr>
+<br>
+
+<img alt="gso" width=50% height=auto src="http://www.spc.noaa.gov/exper/soundings/LATEST/GSO.gif"/>
+<img alt="mhx" width=50% height=auto src="http://www.spc.noaa.gov/exper/soundings/LATEST/MHX.gif"/>
+
+<br>
+<hr>
+<br>
+
+<img alt="sfc" width=100% height=auto src="http://www.wpc.ncep.noaa.gov/sfc/radsfcus_exp_new.gif"/>
+
+<br>
+<hr>
+<br>
+
+<img alt="250mb" width=100% height=auto src="http://www.spc.noaa.gov/obswx/maps/300_12.gif"/>
+
+<br>
+<hr>
+<br>
+
+<img alt="ir" width=100% height=auto src="https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/13/1250x750.jpg"/>
+
+<br>
+<hr>
+<br>
+
+<img alt="radar" width=100% height=auto src="http://images.intellicast.com/WxImages/Radar/clt.gif"/>
+
+<br>
+<hr>
+<br>
+
+<img alt="swody1" width=50% height=auto src="http://www.spc.noaa.gov/products/outlook/day1otlk_1200.gif"/>
+<img alt="swody2" width=50% height=auto src="http://www.spc.noaa.gov/products/outlook/day2otlk_1200.gif"/>
+
+<br>
+<hr>
+<br>
+
+<img alt="uv" width=50% height=auto src="http://www.cpc.ncep.noaa.gov/products/stratosphere/uv_index/gif_files/uv_g211.png"/>
+<img alt="pollen" width=50% height=auto src="http://www.allaboutvision.com/accuweather/pollen.jpg"/>
+
+<br>
+<hr>
+<br>
+
+<img alt="aq" width=50% height=autosrc="https://files.airnowtech.org/airnow/today/cur_aqi_nc_sc.jpg"/>
+<img alt="sf" width=50% height=auto src="https://waterwatch.usgs.gov/images/index.php?mt=real&st=nc"/>
+
+<br>
+<br>
+<br>
+<hr>
+<hr>
+<hr>
+<br>
+<br>
+<br>
 
 <table class="svr2018">
 <caption>2018 Storm Prediction Center Severe Weather Outlooks for North Carolina</caption>
@@ -207,39 +271,11 @@
 
 
 
-
-
-
-<br />
 <br />
 <hr />
 <br />
-<br />
 
 
-
-
-
-
-<center>
-<img alt="Satellite" height="800" src="http://www.spc.noaa.gov/exper/soundings/LATEST/GSO.gif" width="960" /></center>
-<center>
-<img alt="Radar" height="496" src="http://images.intellicast.com/WxImages/Radar/clt.gif" width="768" /></center>
-<center>
-<img alt="Satellite" height="320" src="http://www.spc.noaa.gov/products/outlook/day1otlk_1200.gif" width="460" /><img alt="SPC2" height="320" src="http://www.spc.noaa.gov/products/outlook/day2otlk_0600.gif" width="460" /></center>
-<center>
-<img alt="Radar" height="600" src="http://forecast.weather.gov/wwamap/png/US.png" width="900" /></center>
-<center>
-<img alt="Radar" height="500" src="http://images.intellicast.com/WxImages/SurfaceAnalysis/r08_ICast.gif" width="800" /></center>
-<center>
-<img alt="Radar" height="460" src="http://sdo.gsfc.nasa.gov/assets/img/latest/latest_1024_0304.jpg" width="460" /><img alt="Radar" height="460" src="http://sdo.gsfc.nasa.gov/assets/img/latest/latest_1024_HMIIF.jpg" width="460" /></center>
-
-<center>
-<img alt="Radar" height="375" src="http://www.cpc.ncep.noaa.gov/products/stratosphere/uv_index/gif_files/uv_g211.png" width="500" />
-<img alt="Radar" height="339" src="http://www.allaboutvision.com/accuweather/pollen.jpg" width="400" /></center>
-
-<center>
-<img alt="Radar" height="450" src="http://www.nws.noaa.gov/airquality/aq-images/forecast.png" width="800" /></center>
 
 </body>
 
