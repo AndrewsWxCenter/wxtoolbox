@@ -1,41 +1,85 @@
-<br>
-<hr />
-<br />
-<center>
-<div style="font-size: 22px;">
-<u>2017 North Carolina Severe Weather Risk Days:</u></div>
-</center>
 <html>
+
 <head>
 
-<style>
-
-table, th, td {border: 2px solid gray;}
-
-td.marginal{background-color: #86C387; text-align: center;}
-td.slight{background-color: #FBF387; text-align: center;}
-td.enhanced{background-color: #E5C382; text-align: center;}
-td.moderate{background-color: #E2817D; text-align: center;}
-td.high{background-color: #FF80FF; text-align: center;}
-
-td.day1{text-align: center;}
-td.day2{text-align: center;}
-td.day3{text-align: center;}
-td.day4{text-align: center;}
-td.day5{text-align: center;}
-td.day6{text-align: center;}
-td.day7{text-align: center;}
-td.day8{text-align: center;}
-td.day9{text-align: center;}
-td.day0{text-align: center;}
-
-</style>
-
-
+<!-- Reference to tables.css script in Hostinger File Manager -->
+<link rel="stylesheet" type="text/css" href="https://www.andrewswxcenter.com/files/style.css">
+    
+</head>
 
 <body>
 
-<table style="width: 100%;">
+
+
+<table class="svr2018">
+
+<thead>
+<tr>
+    <th class="marginal">MARGINAL</th>
+    <th class="slight">SLIGHT</th>
+    <th class="enhanced">ENHANCED</th>
+    <th class="moderate">MODERATE</th>
+    <th class="high">HIGH</th>
+  </tr>
+</thead>
+
+<tbody>
+<tr>
+    <td class="day1">15 Days<br></td>
+    <td class="day2">6 Days<br></td>
+    <td class="day3">1 Day<br></td>
+    <td class="day4">0 Days<br></td>
+    <td class="day5">0 Days<br></td>
+  </tr>
+<tr>
+    <td>
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2018/day1otlk_20180112_1630.html" target="_blank">1/12</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2018/day1otlk_20180301_2000.html" target="_blank">3/1</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2018/day1otlk_20180317_2000.html" target="_blank">3/17</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2018/day1otlk_20180319_2000.html" target="_blank">3/19</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2018/day1otlk_20180320_1630.html" target="_blank">3/20</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2018/day1otlk_20180404_1300.html" target="_blank">4/4</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2018/day1otlk_20180404_1300.html" target="_blank">4/15</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2018/day1otlk_20180426_1630.html" target="_blank">4/26</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2018/day1otlk_20180506_1630.html" target="_blank">5/6</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2018/day1otlk_20180510_2000.html" target="_blank">5/10</a><br>
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2018/day1otlk_20180523_1630.html" target="_blank">5/23</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2018/day1otlk_20180531_2000.html" target="_blank">5/31</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2018/day1otlk_20180601_2000.html" target="_blank">6/1</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2018/day1otlk_20180603_1630.html" target="_blank">6/3</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2018/day1otlk_20180611_1630.html" target="_blank">6/11</a>, 
+    </td>
+<br>
+    <td>
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2018/day1otlk_20180317_2000.html" target="_blank">3/17</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2018/day1otlk_20180320_1630.html" target="_blank">3/20</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2018/day1otlk_20180404_1300.html" target="_blank">4/4</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2018/day1otlk_20180404_1300.html" target="_blank">4/15</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2018/day1otlk_20180506_1630.html" target="_blank">5/6</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2018/day1otlk_20180510_2000.html" target="_blank">5/10</a>, 
+    </td>
+<br>
+    <td>
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2018/day1otlk_20180415_1630.html" target="_blank">4/15</a> 
+    </td>
+<br>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+</tbody>
+</table>
+
+
+
+
+
+<hr>
+
+
+
+
+
+<table class="svr2017">
 
 <thead>
 <tr>
@@ -56,78 +100,111 @@ td.day0{text-align: center;}
     <td class="day5">0 Days<br></td>
   </tr>
 <tr>
-    <td>1/22, 2/8, 2/25, 3/1, 3/18, 3/21, 3/28, 3/30, 3/31, 4/3<br>4/5, 4/6, 4/21, 4/22, 4/27, 5/1, 5/4, 5/11, 5/20, 5/22<br>5/24, 5/25, 5/27, 5/28, 5/29, 5/30, 5/31, 6/5, 6/14, 6/15<br>6/16, 6/19, 6/24, 7/1, 7/3, 7/4, 7/5, 7/6, 7/7, 7/8<br>7/9, 7/14, 7/15, 7/18, 7/22, 7/23, 7/27, 7/28, 8/4, 8/7<br>8/15, 8/18, 8/23, 9/1, 9/2, 9/5, 9/6, 10/8, 10/23</td><br>
-    <td>1/22, 2/8, 2/25, 3/1, 3/30, 3/31, 4/3, 4/5, 4/6, 4/22<br>5/1, 5/11, 5/24, 5/27, 5/28, 5/29, 6/5, 6/19, 7/6, 7/8<br>8/7, 9/1, 9/6, 10/23</td>
-    <td>1/22, 3/1, 4/5, 4/6, 5/1, 5/24, 9/1</td>
+    <td>
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170122_1630.html" target="_blank">1/22</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170208_1630.html" target="_blank">2/8</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170225_1630.html" target="_blank">2/25</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170301_1630.html" target="_blank">3/1</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170318_1630.html" target="_blank">3/18</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170321_1630.html" target="_blank">3/21</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170328_1630.html" target="_blank">3/28</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170330_1630.html" target="_blank">3/30</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170331_1630.html" target="_blank">3/31</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170403_1630.html" target="_blank">4/3</a><br>
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170405_1630.html" target="_blank">4/5</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170406_1630.html" target="_blank">4/6</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170421_1630.html" target="_blank">4/21</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170422_1630.html" target="_blank">4/22</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170427_1630.html" target="_blank">4/27</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170501_1630.html" target="_blank">5/1</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170504_1630.html" target="_blank">5/4</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170511_1630.html" target="_blank">5/11</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170520_1630.html" target="_blank">5/20</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170522_1630.html" target="_blank">5/22</a><br>
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170524_1630.html" target="_blank">5/24</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170525_1630.html" target="_blank">5/25</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170527_1630.html" target="_blank">5/27</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170528_1630.html" target="_blank">5/28</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170529_1630.html" target="_blank">5/29</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170530_1630.html" target="_blank">5/30</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170531_1630.html" target="_blank">5/31</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170605_1630.html" target="_blank">6/5</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170614_1630.html" target="_blank">6/14</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170615_1630.html" target="_blank">6/15</a><br>
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170616_1630.html" target="_blank">6/16</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170619_1630.html" target="_blank">6/19</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170624_1630.html" target="_blank">6/24</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170701_1630.html" target="_blank">7/1</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170703_1630.html" target="_blank">7/3</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170704_1630.html" target="_blank">7/4</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170705_1630.html" target="_blank">7/5</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170706_2000.html" target="_blank">7/6</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170707_1630.html" target="_blank">7/7</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170708_1630.html" target="_blank">7/8</a><br>
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170709_1630.html" target="_blank">7/9</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170714_1630.html" target="_blank">7/14</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170715_1630.html" target="_blank">7/15</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170718_1630.html" target="_blank">7/18</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170722_1630.html" target="_blank">7/22</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170723_1630.html" target="_blank">7/23</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170727_1630.html" target="_blank">7/27</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170728_1630.html" target="_blank">7/28</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170804_1630.html" target="_blank">8/4</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170807_1630.html" target="_blank">8/7</a><br>
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170815_1630.html" target="_blank">8/15</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170818_1630.html" target="_blank">8/18</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170823_1630.html" target="_blank">8/23</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170901_1630.html" target="_blank">9/1</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170902_1630.html" target="_blank">9/2</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170905_1630.html" target="_blank">9/5</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170906_1630.html" target="_blank">9/6</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20171008_1630.html" target="_blank">10/8</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20171023_1630.html" target="_blank">10/23</a>
+    </td>
+<br>
+    <td>
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170122_1630.html" target="_blank">1/22</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170208_1630.html" target="_blank">2/8</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170225_1630.html" target="_blank">2/25</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170301_1630.html" target="_blank">3/1</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170330_1630.html" target="_blank">3/30</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170331_1630.html" target="_blank">3/31</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170403_1630.html" target="_blank">4/3</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170405_1630.html" target="_blank">4/5</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170406_1630.html" target="_blank">4/6</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170422_1630.html" target="_blank">4/22</a><br>
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170501_1630.html" target="_blank">5/1</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170511_1630.html" target="_blank">5/11</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170524_1630.html" target="_blank">5/24</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170527_1630.html" target="_blank">5/27</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170528_1630.html" target="_blank">5/28</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170529_1630.html" target="_blank">5/29</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170605_1630.html" target="_blank">6/5</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170619_1630.html" target="_blank">6/19</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170706_2000.html" target="_blank">7/6</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170708_1630.html" target="_blank">7/8</a><br>
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170807_1630.html" target="_blank">8/7</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170901_1630.html" target="_blank">9/1</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170906_1630.html" target="_blank">9/6</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20171023_1630.html" target="_blank">10/23</a>
+    </td>
+<br>
+    <td>
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170122_1630.html" target="_blank">1/22</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170301_1630.html" target="_blank">3/1</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170405_1630.html" target="_blank">4/5</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170406_1630.html" target="_blank">4/6</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170501_1630.html" target="_blank">5/1</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170524_1630.html" target="_blank">5/24</a>, 
+    <a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170901_1630.html" target="_blank">9/1</a>
+    </td>
+<br>
     <td>-</td>
     <td>-</td>
   </tr>
 </tbody>
 </table>
 
-<hr />
-
-<div style="font-size: 18px;">
-<u>SVR WX DAYS SPC OUTLOOKS 2017:</u></div>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170122_1630.html" target="_blank">1/22/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170208_1630.html" target="_blank">2/08/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170225_1630.html" target="_blank">2/25/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170301_2000.html" target="_blank">3/01/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170318_2000.html" target="_blank">3/18/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170321_1630.html" target="_blank">3/21/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170328_1630.html" target="_blank">3/28/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170330_2000.html" target="_blank">3/30/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170331_2000.html" target="_blank">3/31/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170403_1630.html" target="_blank">4/03/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170405_1630.html" target="_blank">4/05/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170406_1300.html" target="_blank">4/06/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170421_1630.html" target="_blank">4/21/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170422_1630.html" target="_blank">4/22/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170427_1630.html" target="_blank">4/27/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170501_1630.html" target="_blank">5/01/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170504_1630.html" target="_blank">5/04/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170511_1630.html" target="_blank">5/11/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170520_1630.html" target="_blank">5/20/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170522_1630.html" target="_blank">5/22/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170524_1630.html" target="_blank">5/24/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170525_1630.html" target="_blank">5/25/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170527_1630.html" target="_blank">5/27/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170528_1630.html" target="_blank">5/28/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170529_1630.html" target="_blank">5/29/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170530_1300.html" target="_blank">5/30/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170531_1630.html" target="_blank">5/31/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170605_1630.html" target="_blank">6/05/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170614_1630.html" target="_blank">6/14/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170615_1630.html" target="_blank">6/15/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170616_1630.html" target="_blank">6/16/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170619_1630.html" target="_blank">6/19/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170624_2000.html" target="_blank">6/24/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170701_1630.html" target="_blank">7/01/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170703_2000.html" target="_blank">7/03/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170704_1630.html" target="_blank">7/04/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170705_1630.html" target="_blank">7/05/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170706_2000.html" target="_blank">7/06/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170707_2000.html" target="_blank">7/07/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170708_1630.html" target="_blank">7/08/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170709_1630.html" target="_blank">7/09/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170714_1630.html" target="_blank">7/14/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170715_1630.html" target="_blank">7/15/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170718_1630.html" target="_blank">7/18/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170722_1630.html" target="_blank">7/22/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170723_1630.html" target="_blank">7/23/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170727_1630.html" target="_blank">7/27/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170728_1630.html" target="_blank">7/28/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170804_1630.html" target="_blank">8/04/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170807_1630.html" target="_blank">8/07/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170815_1630.html" target="_blank">8/15/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170818_1630.html" target="_blank">8/18/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170823_1630.html" target="_blank">8/23/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170901_1630.html" target="_blank">9/01/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170902_1630.html" target="_blank">9/02/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170905_1630.html" target="_blank">9/05/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170906_1630.html" target="_blank">9/06/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20171008_1630.html" target="_blank">10/08/17&nbsp;</a>
-<a href="http://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20171023_1630.html" target="_blank">10/23/17&nbsp;</a>
 
 
 
@@ -138,6 +215,11 @@ td.day0{text-align: center;}
 <hr />
 <br />
 <br />
+
+
+
+
+
 
 <center>
 <img alt="Satellite" height="800" src="http://www.spc.noaa.gov/exper/soundings/LATEST/GSO.gif" width="960" /></center>
@@ -161,14 +243,4 @@ td.day0{text-align: center;}
 
 </body>
 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-48490318-2', 'auto');
-  ga('send', 'pageview');
-
-</script>
-</head></html>
+</html>
