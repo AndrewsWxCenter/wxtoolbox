@@ -140,31 +140,25 @@
 <br>
 <br>
 <hr>
-<hr>
-<hr>
 <br>
 <br>
 <br>
 
 <table class="svr2018">
 <caption>2018 Storm Prediction Center Severe Weather Outlooks for North Carolina</caption>
-<thead>
 <tr>
-    <th style="background-color:#86C387; width:40%">MARGINAL</th>
-    <th style="background-color:#FBF387; width:30%">SLIGHT</th>
-    <th style="background-color:#E5C382; width:10%">ENHANCED</th>
-    <th style="background-color:#E2817D; width:10%">MODERATE</th>
-    <th style="background-color:#FF80FF; width:9%">HIGH</th>
+    <td bgcolor="#86C387">MARGINAL</td>
+    <td bgcolor="#FBF387">SLIGHT</td>
+    <td bgcolor="#E5C382">ENHANCED</td>
+    <td bgcolor="#E2817D">MODERATE</td>
+    <td bgcolor="#FF80FF">HIGH</td>
   </tr>
-</thead>
-
-<tbody>
 <tr>
-    <td class="day1">15 Days<br></td>
-    <td class="day2">6 Days<br></td>
-    <td class="day3">1 Day<br></td>
-    <td class="day4">0 Days<br></td>
-    <td class="day5">0 Days<br></td>
+    <td>15 Days<br></td>
+    <td>6 Days<br></td>
+    <td>1 Day<br></td>
+    <td>0 Days<br></td>
+    <td>0 Days<br></td>
   </tr>
 <tr>
     <td>
@@ -201,7 +195,6 @@
     <td>-</td>
     <td>-</td>
   </tr>
-</tbody>
 </table>
 
 
@@ -216,23 +209,19 @@
 
 <table class="svr2017">
 <caption>2017 Storm Prediction Center Severe Weather Outlooks for North Carolina</caption>
-<thead>
 <tr>
-    <th style="background-color:#86C387; width:40%">MARGINAL</th>
-    <th style="background-color:#FBF387; width:30%">SLIGHT</th>
-    <th style="background-color:#E5C382; width:10%">ENHANCED</th>
-    <th style="background-color:#E2817D; width:10%">MODERATE</th>
-    <th style="background-color:#FF80FF; width:9%">HIGH</th>
+    <td bgcolor="#86C387">MARGINAL<br></td>
+    <td bgcolor="#FBF387">SLIGHT<br></td>
+    <td bgcolor="#E5C382">ENHANCED<br></td>
+    <td bgcolor="#E2817D">MODERATE<br></td>
+    <td bgcolor="#FF80FF">HIGH<br></td>
   </tr>
-</thead>
-
-<tbody>
 <tr>
-    <td class="day1">59 Days<br></td>
-    <td class="day2">24 Days<br></td>
-    <td class="day3">7 Days<br></td>
-    <td class="day4">0 Days<br></td>
-    <td class="day5">0 Days<br></td>
+    <td>59 Days<br></td>
+    <td>24 Days<br></td>
+    <td>7 Days<br></td>
+    <td>0 Days<br></td>
+    <td>0 Days<br></td>
   </tr>
 <tr>
     <td>
@@ -337,7 +326,6 @@
     <td>-</td>
     <td>-</td>
   </tr>
-</tbody>
 </table>
 
 
