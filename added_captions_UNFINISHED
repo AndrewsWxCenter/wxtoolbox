@@ -13,66 +13,128 @@
 
 <img alt="currenthazards" width=100% height=auto src="http://maps8.pivotalweather.com/maps/warnings/nwshaz.us_ma.png"/>
 <br>
+<br>
 <p style="font-size:125%;">Current significant weather warnings, watches, and advisories for the greater Mid-Atlantic region. Updates roughly every fifteen minutes.</p>
+<br>
+
+
 
 <br>
 <hr>
 <br>
+
+
 
 <img alt="gso" width=50% height=auto src="http://www.spc.noaa.gov/exper/soundings/LATEST/GSO.gif"/>
 <img alt="mhx" width=50% height=auto src="http://www.spc.noaa.gov/exper/soundings/LATEST/MHX.gif"/>
 <br>
-<p style="font-size:125%;">Soundings from KGSO/Greensboro (left) and KMHX/Morehead City (right). Updates roughly every twelve hours at 12z and 00z.</p>
+<br>
+<p style="font-size:125%;">Soundings from KGSO/Greensboro (left) and KMHX/Morehead City (right). Updates daily at 12z and 00z.</p>
+<br>
+
+
 
 <br>
 <hr>
 <br>
+
+
 
 <img alt="sfc" width=100% height=auto src="http://www.wpc.ncep.noaa.gov/sfc/radsfcus_exp_new.gif"/>
 <br>
-<p style="font-size:125%;">Current national-scale surface analysis map. Fronts, areas of concentrated high and low pressure, radar data, and isobars are shown. Updates roughly every three hours.</p>
+<br>
+<p style="font-size:125%;">Current national-scale surface analysis map. Fronts, areas of concentrated high and low pressure, radar data, and isobars are shown. Updates every three hours.</p>
+<br>
+
 
 
 <br>
 <hr>
 <br>
+
+
 
 <img alt="300mb" width=100% height=auto src="http://www.spc.noaa.gov/obswx/maps/300_12.gif"/>
 <br>
+<br>
 <p style="font-size:125%;">Current national-scale upper air analysis at 250mb. Upper air data are shown at locations where weather balloons are regularly released. Divergence is plotted in yellow contours and isotachs (line of constant wind speed) are plotted in light blue. Updates roughly every _____? hours.</p>
+<br>
+
+
 
 <br>
 <hr>
 <br>
+
+
 
 <img alt="ir" width=100% height=auto src="https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/13/1250x750.jpg"/>
+<br>
+<br>
+<p style="font-size:125%;">Current Infrared satellite imagery over the continental United States from GOES-East. Provided by the National Environmental Satellite, Data, and Information Service (NESDIS), the Center for Satellite Applications and Research (STAR), and NOAA. Updates roughly every _____? hours.</p>
+<br>
+
+
 
 <br>
 <hr>
 <br>
+
+
 
 <img alt="radar" width=100% height=auto src="http://images.intellicast.com/WxImages/Radar/clt.gif"/>
+<br>
+<br>
+<p style="font-size:125%;">Current Doppler radar reflectivity for North Carolina and surrounding states. Imagery provided by Weather Services International (WSI) and Intellicast. Updates roughly every fifteen minutes.</p>
+<br>
+
+
 
 <br>
 <hr>
 <br>
 
-<img alt="swody1" width=50% height=auto src="http://www.spc.noaa.gov/products/outlook/day1otlk_1200.gif"/>
-<img alt="swody2" width=50% height=auto src="http://www.spc.noaa.gov/products/outlook/day2otlk_1200.gif"/>
+
+
+<img alt="swody1" width=49% height=auto src="https://www.spc.noaa.gov/products/activity_loop.gif"/>
+<img alt="swody2" width=51% height=auto src="https://www.spc.noaa.gov/products/outlook/day2otlk_0600.gif"/>
+<br>
+<br>
+<p style="font-size:125%;">Day 1/Today (left) and Day 2/Tomorrow (right) convective outlooks from the Storm Prediction Center. Left panel updates roughly every three and a half hours and right panel updates roughly every twelve hours.</p>
+<br>
+
+
 
 <br>
 <hr>
 <br>
+
+
 
 <img alt="uv" width=50% height=auto src="http://www.cpc.ncep.noaa.gov/products/stratosphere/uv_index/gif_files/uv_g211.png"/>
 <img alt="pollen" width=50% height=auto src="https://dsx.weather.com/util/image/map/grass_pol_1280x720.jpg?v=ap&w=1280&h=720&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0"/>
+<br>
+<br>
+<p style="font-size:125%;">UV Index Forecast (left) and Grass Pollen Forecast (right) from NOAA's Climate Prediction Center (CPC)/National Center for Environmental Prediction (NCEP) and The Weather Channel, respectively. Left panel updates daily and right panel updates hourly.</p>
+<br>
+
+
 
 <br>
 <hr>
 <br>
 
+
+
+
 <img alt="aq" width=50% height=auto src="https://files.airnowtech.org/airnow/today/cur_aqi_nc_sc.jpg"/>
 <img alt="sf" width=50% height=auto src="https://waterwatch.usgs.gov/images/index.php?mt=real&st=nc"/>
+<br>
+<br>
+<p style="font-size:125%;">Current Air Quality Index (left) and Real-time Streamflow in North Carolina (right) from AirNow-Tech and the United States Geological Survey (USGS), respectively. Both panels update hourly.</p>
+<br>
+
+
 
 <br>
 <br>
@@ -92,7 +154,7 @@
     <th style="background-color:#FBF387; width:30%">SLIGHT</th>
     <th style="background-color:#E5C382; width:10%">ENHANCED</th>
     <th style="background-color:#E2817D; width:10%">MODERATE</th>
-    <th style="background-color:#FF80FF; width:10%">HIGH</th>
+    <th style="background-color:#FF80FF; width:9%">HIGH</th>
   </tr>
 </thead>
 
@@ -153,14 +215,14 @@
 
 
 <table class="svr2017">
-<caption>2018 Storm Prediction Center Severe Weather Outlooks for North Carolina</caption>
+<caption>2017 Storm Prediction Center Severe Weather Outlooks for North Carolina</caption>
 <thead>
 <tr>
     <th style="background-color:#86C387; width:40%">MARGINAL</th>
     <th style="background-color:#FBF387; width:30%">SLIGHT</th>
     <th style="background-color:#E5C382; width:10%">ENHANCED</th>
     <th style="background-color:#E2817D; width:10%">MODERATE</th>
-    <th style="background-color:#FF80FF; width:10%">HIGH</th>
+    <th style="background-color:#FF80FF; width:9%">HIGH</th>
   </tr>
 </thead>
 
